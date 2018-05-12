@@ -1,10 +1,16 @@
 _repo: The-Lone-Star-Defenders-A-Chronicle-of-the-Third-Texas-Cavalry-Ross-Brigade_50472
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50472-h/images/cover.jpg
 creator:
   author:
     agent_name: Barron, Samuel Benton
     gutenberg_agent_id: '45926'
     url: http://www.gutenberg.org/2009/agents/45926
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50472#The-Lone-Star-Defenders-A-Chronicle-of-the-Third-Texas-Cavalry-Ross-Brigade
 gutenberg_issued: '2015-11-17'
 gutenberg_type: Text
 identifiers:
